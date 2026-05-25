@@ -45,7 +45,7 @@ Abaixo estão as principais soluções que desenvolvi ao longo da minha trajetó
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthur061&show_icons=true&theme=radium&hide_border=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthur061&theme=radium&hide_border=true" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur061&layout=compact&theme=radium&hide_border=true" height="150" alt="Linguagens mais usadas" />
 </div>
 
