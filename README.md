@@ -7,23 +7,21 @@
 ### 👨‍💻 Sobre Mim
 
 - 🎓 Graduando em **Engenharia de Software** pela Universidade de Brasília (UnB) — FGA.
-- 💻 **Desenvolvedor Web Full Stack**, com versatilidade estrutural para atuar também na criação de **aplicações Desktop e Mobile**. Foco em arquitetar soluções escaláveis, desde automações em nuvem até sistemas complexos prontas para produção.
+- 💻 **Desenvolvedor Web Full Stack**, com versatilidade estrutural para atuar também na criação de **aplicações Desktop e Mobile**. Foco em arquitetar soluções escaláveis, desde automações em nuvem até sistemas complexos prontos para produção.
 - 📐 Experiência acadêmica atuando na **tutoria de Cálculo 2**, o que aprimorou minha comunicação técnica, didática e capacidade de destrinchar problemas lógicos complexos.
 - ⚡ **Além do código:** Valorizo uma rotina equilibrada e de desenvolvimento contínuo, dividindo meu tempo entre a leitura, os estudos, os treinos e a construção de projetos pessoais práticos.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack
 
-<div style="display: inline-block;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,java,nodejs,django,react,flutter,mysql,sqlite,linux,git" />
+  </a>
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/RISC--V-000000?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" />
 </div>
 
 ---
@@ -44,7 +42,7 @@ Abaixo estão as principais soluções que desenvolvi ao longo da minha trajetó
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arthur061&show_icons=true&theme=radium&hide_border=true" height="150" alt="Estatísticas do GitHub" />
@@ -62,6 +60,16 @@ Abaixo estão as principais soluções que desenvolvi ao longo da minha trajetó
 
 ---
 
+### 📬 Contato
+
 <div align="center">
-  📬 <b>Como me encontrar:</b> <a href="mailto:arthuralves6622@gmail.com">arthuralves6622@gmail.com</a>
+  <a href="mailto:arthuralves6622@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/5561993083616">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </div>
