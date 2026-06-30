@@ -46,7 +46,7 @@ Abaixo estão as principais soluções que desenvolvi ao longo da minha trajetó
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthur061&theme=radium&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://metrics.lecoq.io/Arthur061?template=classic&base=0&languages=1&languages.limit=6" height="150" alt="Linguagens mais usadas" />
+  <img src="https://metrics.lecoq.io/Arthur061?template=classic&base=0&languages=1&languages.limit=6&config.theme=dark&v=1" height="150" alt="Linguagens mais usadas" />
 </div>
 
 <br>
