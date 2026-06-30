@@ -2,8 +2,13 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda uma vez por dia
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+# AQUI ESTÁ A CORREÇÃO DO ERRO 128:
+# Damos permissão explícita para a Action escrever no repositório
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -18,7 +23,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Atualizado para v4 para resolver o aviso amarelo do Node.js
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
