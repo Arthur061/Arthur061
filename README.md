@@ -32,6 +32,7 @@ Abaixo estão as principais soluções que desenvolvi ao longo da minha trajetó
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
+| **[📚 GoStudy](https://github.com/UnBArqDsw2026-1/2026.1-T03-Turing)** | Plataforma web completa de gestão e interação acadêmica. Atuação como **Desenvolvedor Full Stack**, implementando desde a API Restful, regras de negócio e sistema de moderação no backend, até a interface dinâmica, componentizada e responsiva no frontend. | `React`, `Vite`, `Django`, `DRF` |
 | **🤖 SIGAA Bot** | *(Repositório Privado)* Automação inteligente que monitoriza e realiza a matrícula extraordinária no SIGAA/UnB de forma autónoma. Conta com gestão de sessões, desvio de expiração e alertas automáticos via e-mail, correndo 100% em nuvem. | `Node.js`, `Playwright`, `GitHub Actions` |
 | **[💍 Lista de Presentes](https://github.com/Arthur061/casamento-irma)** | Aplicação web interativa para gestão de presentes de casamento. Possui sincronização em tempo real, integração dinâmica com PIX (Payload e QR Code), proteção de dados e relatórios administrativos em PDF. | `React 19`, `Vite`, `Supabase`, `jsPDF` |
 | **[🏪 Kitanda PDV](https://github.com/Arthur061/kitanda-pvd)** | Sistema de Ponto de Venda (PDV) desktop voltado para pequenos comércios. Dispõe de frente de caixa ágil, controlo rigoroso de inventário com alertas de stock mínimo, níveis de acesso e encriptação de palavras-passe. | `Electron`, `Node.js`, `SQLite3`, `Bcrypt.js` |
